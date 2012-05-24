@@ -1,0 +1,12 @@
+SlaveBrowser, Frankenstein saw ChildBrowser and had some fun with it...
+
+By dda @ stimulus.hk
+
+For very specific needs I needed a ChildBrowser that would send me back the full HTML source of the page that was just loaded. Also, I didn't want a navigation toolbar, for obvious reasons -- I didn't want the user to navigate about, but follow the instructions -- and I thought it'd be nice to have a title displayed where the toolbar is. So I went on working on ChildBrowser, and got something working the way I wanted it.
+
+To illustrate the use of this plugin, I am putting it up with a complete -- albeit barebones -- Cordova project that achieves Google oAuth2.
+
+Please report any issues.
+
+This is version 0.1.23
+
